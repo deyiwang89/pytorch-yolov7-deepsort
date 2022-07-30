@@ -1,5 +1,7 @@
 # Deep Sort with Yolov7 in Pytorch
 
+[Video](https://www.bilibili.com/video/BV1be4y1R73B/?vd_source=5f91ae5ee1720ed85b51761270b90025)
+
 - Version 1.1
 
 Add tracks in img.
